@@ -1,39 +1,13 @@
-# Digital Signal Processing Lab
+---
+layout: home
+title: Digital Signal Processing Lab
+landing-title: Digital Signal Processing Lab
+description: Nanyang Technological University
+image: null
+author: null
+show_tile: true
+---
 
-## Welcome to GitHub Pages
+The lab is set up in 1998 after Texas Instruments award the title of Texas Instruments DSP Elite Lab status to NTU. It is also the only Texas Instruments DSP Elite Lab in Singapore. The role of the TIDSP Elite Lab is to train engineers and researchers in the advanced area of real-timeDSP implementation using the Texas Instruments state-of-the-art DSP processors. We have since trained more than 300 students since the inception of the Elite Lab and looking forward to work closely with TI and other companies in training future manpower in embedded media processing. So far, we have conducted several high-profile workshops for Texas Instruments, Analog Devices, Philips, Activemedia, and Xilinx.
 
-You can use the [editor on GitHub](https://github.com/ntudsp/ntudsp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ntudsp/ntudsp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The DSP Lab is also playing an important role to bring advanced DSP research work into practical realization. Over the past few years, the DSP lab has developed into a well-recognized lab in Singapore doing applied signal processing projects for the industry. We have received and delivered several research contracts from companies like DaimlerChrysler (Germany), Singapore Technologies Kinetics, Texas Instruments (USA), Analog Devices (USA), Excelpoint System, TechSource, and research agency like A*STAR. We have also been widely consulted in area in real-time DSP implementation and applications, audio and acoustics signal processing, and DSP programming. Through this industry interaction, the value-added work carried out in the DSP Lab has constantly led to further research that combines fundamental and real-time DSP issues.
