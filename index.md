@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: index
 title: Digital Signal Processing Lab
 landing-title: Digital Signal Processing Lab
 description: Nanyang Technological University
