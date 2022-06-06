@@ -1,3 +1,10 @@
+---
+layout: page
+title: Cities of Tomorrow: Augmenting Urban Soundscapes
+description: Feugiat amet tempus
+image: assets/images/pic06.jpg
+---
+
 # Cities of Tomorrow: Augmenting Urban Soundscapes
 
 ## Disclaimer
