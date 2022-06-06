@@ -4,17 +4,17 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 # site settings
 title: Digital Signal Processing Lab
 subtitle: Nanyang Technological University
-# email: youremailaddress@gmail.com
+email: 
 description: A showcase page for Digital Signal Processing Lab.
-baseurl: "/pages" # the subpath of your site, e.g. /blog
-# url: # the base hostname & protocol for your site
-# author:
+baseurl:    # the subpath of your site, e.g. /blog
+url:        # the base hostname & protocol for your site
+author:     Karn Watcharasupat
 street_address: 50 Nanyang Avenue S2-B4a-03
-# city: Singapore
-# state: TN
+city: Singapore
+state: TN
 zip_code: 639798
 country: Singapore
-phone: 6790 6901
+phone: 67906901
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -26,13 +26,13 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/ntudsp
-#   GitLab:
-#   Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-#   Instagram:
-#   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-#   Twitter: https://twitter.com/andrewbanchich
-#   Facebook:
-#   Slack:
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn: 
+  Twitter: 
+  Facebook:
+  Slack:
 
 # build settings
 markdown: kramdown
