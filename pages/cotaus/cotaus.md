@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cities of Tomorrow: Augmenting Urban Soundscapes
+title: 'Cities of Tomorrow: Augmenting Urban Soundscapes'
 description: Exploring a holistic approach for noise mitigation 
 image: 
 ---
