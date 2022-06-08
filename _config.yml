@@ -6,7 +6,7 @@ title: Digital Signal Processing Lab
 subtitle: Nanyang Technological University
 email: 
 description: A showcase page for Digital Signal Processing Lab.
-baseurl:    /pages # the subpath of your site, e.g. /blog
+baseurl:    # the subpath of your site, e.g. /blog
 url:        # the base hostname & protocol for your site
 author:     Karn Watcharasupat
 street_address: 50 Nanyang Avenue S2-B4a-03
