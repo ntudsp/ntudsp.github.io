@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Prof. Woon-Seng Gan",
+    "role": "Principal Investigator",
+    "affiliation": "Digital Signal Processing Laboratory, School of Electrical and Electronic Engineering, Nanyang Technological University",
+    "focus": "Audio engineering, active noise control, spatial audio, soundscape systems, and AI for sound.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ewsgan"
+      }
+    ]
+  },
+  {
+    "name": "Research Fellows and Project Staff",
+    "role": "Research team",
+    "affiliation": "DSP Lab, NTU",
+    "focus": "Translational research, experimental platforms, embedded audio systems, datasets, and field deployment.",
+    "links": []
+  },
+  {
+    "name": "PhD and Graduate Researchers",
+    "role": "Graduate research team",
+    "affiliation": "DSP Lab, NTU",
+    "focus": "Algorithm development, machine listening, active sound control, spatial audio, and reproducible research code.",
+    "links": []
+  },
+  {
+    "name": "Alumni and Collaborators",
+    "role": "Extended research network",
+    "affiliation": "DSP Lab, NTU and partner institutions",
+    "focus": "Academic, industrial, and agency collaborations across audio, acoustics, signal processing, and urban sound technologies.",
+    "links": []
+  }
+]
